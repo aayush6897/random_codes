@@ -19,7 +19,7 @@ Sample Output:
 2
 1
 2
-*/
+*/ 
 
 
 #include <iostream>
